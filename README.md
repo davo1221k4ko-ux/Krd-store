@@ -1,0 +1,2 @@
+# Krd-store
+Kurd store
